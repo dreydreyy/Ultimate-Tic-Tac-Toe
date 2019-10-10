@@ -12,7 +12,7 @@ This is the ONLY file you should modify.
 class bot:
     def __init__(self, game):
         self.game = game
-        self.team_name = "Foo"
+        self.team_name = "noobies"
 
     def move(self):
         "Logic for your bot"
